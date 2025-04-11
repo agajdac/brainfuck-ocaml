@@ -1,0 +1,4 @@
+(executable
+ (public_name brainf)
+ (name main)
+ (libraries brainf core))
